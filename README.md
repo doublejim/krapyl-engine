@@ -1,5 +1,9 @@
 # krapyl-engine
-Krapyl Engine will eventually become a GPLv3 licensed OpenGL 3D engine written in Qt C++, using SDL2 instead of Qt 3D.
+Krapyl Engine will eventually become a working 3D engine.
+- Qt C++
+- OpenGL 2.1
+- SDL2 instead of Qt 3D.
+- GPLv3 licensed.
 
 Current state:
 - Not in a good state for any actual use. Has bugs. Is not streamlined. It can barely be called an engine.
