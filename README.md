@@ -39,6 +39,6 @@ Project goals:
 - Support both large and small 3D worlds.
 - Programmable world generation.
 - 3D world editor.
-- Animation support through collada.
+- Animation support through collada format.
 
 Frameworks/libraries used: Qt, SDL2, GLEW, Glu (glu is barely used, and will be removed).
