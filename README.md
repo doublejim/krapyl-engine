@@ -29,6 +29,7 @@ Things to create next:
 - Cull entities that are out of view frustrum.
 - Proper shader management / shader inheritance.
 - Light and shadows.
+- Physics / interacting geometries: bounding boxes and gravity.
 - Generate, load and update Meshes at runtime. 
 - Generate Meshes and Textures from data specified in JSON (could be really cool).
 - Flip y axis, so that minus is down instead of up... It's really annoying right now.
