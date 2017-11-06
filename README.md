@@ -26,6 +26,7 @@ Things to create next:
 - A proper ECS system.
 - Proper camera functions.
 - Programmable keyboard/mouse/gamepad link to events.
+- Invent a general, coherent workflow for the whole engine.
 - Cull entities that are out of view frustrum.
 - Proper shader management / shader inheritance.
 - Light and shadows.
