@@ -34,6 +34,7 @@ Things to create next:
 - Generate, load and update Meshes at runtime. 
 - Generate Meshes and Textures from data specified in JSON (could be really cool).
 - Flip y axis, so that minus is down instead of up... It's really annoying right now.
+- Performance improvements.
 - Simplify but keep flexible.
 
 Project goals:
