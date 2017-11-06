@@ -21,7 +21,7 @@ Things to create next:
 - A powerful event system that scales.
 - A proper ECS system.
 - Proper camera functions.
-- Programmable keyboard/mouse link to events.
+- Programmable keyboard/mouse/gamepad link to events.
 - Cull entities that are out of view frustrum.
 - Proper shader management / shader inheritance.
 - Light and shadows.
