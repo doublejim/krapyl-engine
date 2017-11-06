@@ -5,7 +5,7 @@ Current state:
 - Not in a good state for any actual use. Has bugs. Is not streamlined. It can barely be called an engine.
 - Purely OpenGL 2.1.
 - It can load meshes from .obj files (requires that they have been exported with indices).
-- Textured and multi-colored 3d objects can be exported from Blender, and viewed (it reads the .mtl file).
+- Textured and multi-colored 3d objects can be exported from Blender, and viewed (it reads the .mtl and image file).
 - Translate and rotate scenes and entities.
 - Meshes can be put in VBO's if chosen.
 - You can apply shaders on entities, and update uniforms per frame (however, this hasn't been optimized).
