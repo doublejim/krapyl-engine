@@ -2,12 +2,11 @@
 Krapyl Engine will eventually become a GPLv3 licensed OpenGL 3D engine for Qt, using SDL2 instead of Qt 3D.
 
 Current state:
-
 - Not in a good state for any actual use. Has bugs. Is not streamlined. It can barely be called an engine.
 - Purely OpenGL 2.1.
 - It can load meshes from .obj files (requires that they have been exported with indices).
 - Textured and multi-colored 3d objects can be exported from Blender, and viewed (it reads the .mtl file).
-- Translate and rotate scenes and entities (I haven't tested scaling yet).
+- Translate and rotate scenes and entities.
 - Meshes can be put in VBO's if chosen.
 - You can apply shaders on entities, and update uniforms per frame (however, this hasn't been optimized).
 - Currently you have to create at least one VBO per mesh, but you may choose between sequential / interleaved attributes.
@@ -18,7 +17,7 @@ Current state:
 - Multiple windows with OpenGL context sharing (allowed through SDL).
 
 Things to create next:
-- Proper VBO management.
+- Proper VBO and data management.
 - A powerful event system that scales.
 - A proper ECS system.
 - Proper camera functions.
@@ -34,7 +33,8 @@ Things to create next:
 Project goals:
 - OpenGL 2.1 graphics all the way (probably). This must be able to run on the vast majority of PC's from the last 10 years. At some point it must be made to run on a Raspberry Pi.
 - High integration with JSON, so that all world data may be written to JSON files (Model-View-Controller system).
-- Decent performance, but focus on flexibility.
+- Decent performance, but focus on flexibility and being dynamic.
+- A good system for applying shaders.
 - Support for multiple players on one PC, each having their own 3d window.
 - Support both large and small 3D worlds.
 - 3D world editor.
