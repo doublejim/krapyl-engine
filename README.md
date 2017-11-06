@@ -6,7 +6,7 @@ Krapyl Engine will eventually become a working 3D engine.
 - GPLv3 licensed.
 
 Current state:
-- Not in a good state for any actual use. Has bugs. Is not streamlined. It can barely be called an engine.
+- Not in a good state for any actual use. Has bugs. Isn't optimized. Not streamlined. It can barely be called an engine.
 - Purely OpenGL 2.1.
 - It can load meshes from .obj files (requires that they have been exported with indices).
 - Textured and multi-colored 3d objects can be exported from Blender, and viewed (it reads the .mtl and image file).
