@@ -19,19 +19,20 @@ Current state:
 
 Things to create next:
 - Proper VBO management.
-- An event system.
+- A powerful event system that scales.
 - A proper ECS system.
 - Proper camera functions.
 - Programmable keyboard/mouse link to events.
 - Cull entities that are out of view frustrum.
 - Proper shader management / shader inheritance.
 - Light and shadows.
+- Generate, load and update Meshes at runtime. 
 - Generate Meshes and Textures from data specified in JSON.
 - Flip y axis, so that minus is down instead of up... It's really annoying right now.
 - Simplify but keep flexible.
 
 Project goals:
-- OpenGL 2.1 graphics all the way. This must be able to run on the vast majority of PC's from the last 10 years. At some point it must be made to run on a Raspberry Pi.
+- OpenGL 2.1 graphics all the way (probably). This must be able to run on the vast majority of PC's from the last 10 years. At some point it must be made to run on a Raspberry Pi.
 - High integration with JSON, so that all world data may be written to JSON files (Model-View-Controller system).
 - Support for multiple players on one PC, each having their own 3d window.
 - Support both large and small 3D worlds.
