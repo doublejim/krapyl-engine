@@ -12,7 +12,7 @@ Current state:
 - Textured and multi-colored 3d objects can be exported from Blender, and viewed (it reads the .mtl and image file).
 - Translate and rotate scenes and entities.
 - Meshes can be put in VBO's if chosen.
-- You can apply shaders on entities, and update uniforms per frame (however, this hasn't been optimized).
+- You can apply shaders on entities, and update uniforms per frame.
 - Currently you have to create at least one VBO per mesh, but you may choose between sequential / interleaved attributes.
 - It can generate a simple 3d mesh programmatically.
 - You can create the texture from a QImage. You can also write a QString to the texture, and update it every frame.
