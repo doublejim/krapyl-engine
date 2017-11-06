@@ -37,6 +37,7 @@ Project goals:
 - A good system for applying shaders.
 - Support for multiple players on one PC, each having their own 3d window.
 - Support both large and small 3D worlds.
+- Programmable world generation.
 - 3D world editor.
 - Animation support through collada.
 
