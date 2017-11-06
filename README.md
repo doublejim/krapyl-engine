@@ -36,6 +36,7 @@ Project goals:
 - Decent performance, but focus on flexibility and being dynamic.
 - A good system for applying shaders.
 - Support for multiple players on one PC, each having their own 3d window. I really like this feature, it's very useful for couch-coop games.
+- Fully integrated P2P local network system.
 - Support both large and small 3D worlds.
 - Programmable world generation.
 - 3D world editor.
