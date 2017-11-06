@@ -26,7 +26,7 @@ Things to create next:
 - Proper shader management / shader inheritance.
 - Light and shadows.
 - Generate, load and update Meshes at runtime. 
-- Generate Meshes and Textures from data specified in JSON.
+- Generate Meshes and Textures from data specified in JSON (could be really cool).
 - Flip y axis, so that minus is down instead of up... It's really annoying right now.
 - Simplify but keep flexible.
 
