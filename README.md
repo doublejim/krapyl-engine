@@ -36,5 +36,6 @@ Project goals:
 - Support for multiple players on one PC, each having their own 3d window.
 - Support both large and small 3D worlds.
 - 3D world editor.
+- Animation support through collada.
 
 Frameworks/libraries used: Qt, SDL2, GLEW, Glu (glu is barely used, and will be removed).
