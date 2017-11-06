@@ -35,6 +35,7 @@ Things to create next:
 - Simplify but keep flexible.
 
 Project goals:
+- Cross-platform engine: Windows/Linux/Mac OS X
 - OpenGL 2.1 graphics all the way (probably). This must be able to run on the vast majority of PC's from the last 10 years. At some point it must be made to run on a Raspberry Pi.
 - High integration with JSON, so that all world data may be written to JSON files (Model-View-Controller system).
 - Decent performance, but focus on flexibility and being dynamic.
