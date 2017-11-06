@@ -1,5 +1,5 @@
 # krapyl-engine
-Krapyl Engine will eventually become a GPLv3 licensed OpenGL 3D engine for Qt, using SDL2 instead of Qt 3D.
+Krapyl Engine will eventually become a GPLv3 licensed OpenGL 3D engine written in Qt C++, using SDL2 instead of Qt 3D.
 
 Current state:
 - Not in a good state for any actual use. Has bugs. Is not streamlined. It can barely be called an engine.
@@ -35,7 +35,7 @@ Project goals:
 - High integration with JSON, so that all world data may be written to JSON files (Model-View-Controller system).
 - Decent performance, but focus on flexibility and being dynamic.
 - A good system for applying shaders.
-- Support for multiple players on one PC, each having their own 3d window.
+- Support for multiple players on one PC, each having their own 3d window. I really like this feature, it's very useful for couch-coop games.
 - Support both large and small 3D worlds.
 - Programmable world generation.
 - 3D world editor.
