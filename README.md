@@ -1,6 +1,7 @@
 # krapyl-engine
 Krapyl Engine will eventually become a working 3D engine.
 - Written in Qt C++.
+- Cross-platform: Linux / Mac OS X / Windows
 - OpenGL 2.1 rendering.
 - SDL2 instead of Qt 3D.
 - GPLv3 licensed.
