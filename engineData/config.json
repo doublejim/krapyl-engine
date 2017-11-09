@@ -1,0 +1,14 @@
+{
+    "player0": {
+        "move_down": 115,
+        "move_left": 97,
+        "move_right": 100,
+        "move_up": 119
+    },
+    "player1": {
+        "move_down": 115,
+        "move_left": 100,
+        "move_right": 119,
+        "move_up": 97
+    }
+}

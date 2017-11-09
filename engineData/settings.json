@@ -1,0 +1,13 @@
+{
+    "filtering": "trilinear",
+    "fps_limit": 120,
+    "fullscreen": false,
+    "mipmap_allowed": true,
+    "msaa": true,
+    "msaa_level": 8,
+    "vsync": true,
+    "window_borders": true,
+    "window_h": 1050,
+    "window_w": 1680,
+    "windows": 1
+}
