@@ -51,4 +51,10 @@ Project goals:
 - 3D world editor.
 - Animation support through collada format.
 
-Frameworks/libraries used: Qt, SDL2, GLEW, Glu (glu is barely used, and will be removed).
+How to run it:
+- Btw. it can't exit properly at this moment! :'-(
+- Open "my_application.h" and set this to its correct engineData-folder: m_applicationPath = "E:/krapyl-engine/engineData/".
+- You need to install/download these libraries, and may need to put the .lib / .a files in your project folder:
+SDL2, GLEW, Glu (glu is barely used, and will be removed soon).
+- Remember to put the needed dll's in your build directory.
+- Good luck.
